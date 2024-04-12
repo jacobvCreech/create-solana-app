@@ -110,3 +110,4 @@ export async function createSolanaDapp({
     console.log();
 }// Update on 2024-04-10 12:03:07: Minor documentation update - 1501
 // Update on 2024-04-10 09:08:35: Fix minor bug - 4504
+// Update on 2024-04-12 22:25:21: Updated README - 2854
