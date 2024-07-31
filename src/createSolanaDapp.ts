@@ -293,3 +293,4 @@ export async function createSolanaDapp({
 // Update on 2024-07-30 09:41:44: Updated dependencies - 3795
 // Update on 2024-07-30 13:27:36: Updated README - 3739
 // Update on 2024-07-31 19:51:28: Small UI tweak - 6121
+// Update on 2024-07-31 14:14:01: Minor documentation update - 3255
